@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-2787-define-the-contract-admin-key-custody-policy",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-2787-define-the-contract-admin-key-custody-policy": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-2787-define-the-contract-admin-key-custody-policy",
+    "origin"
+  ]
+}
